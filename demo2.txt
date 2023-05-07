@@ -1,2 +1,2 @@
 second file
-i have updated the file in the staging area
+i have updated the file in the staging area.
